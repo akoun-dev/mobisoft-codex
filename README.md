@@ -12,10 +12,8 @@
 -   [Installation et Configuration](#installation-et-configuration)
 -   [Base de Données](#base-de-données)
 -   [Authentification et Autorisation](#authentification-et-autorisation)
--   [API et Microservices](#api-et-microservices)
+-   [API](#api-et-microservices)
 -   [Tests](#tests)
--   [Déploiement](#déploiement)
--   [Contribution](#contribution)
 
 ## 🎯 Vue d'ensemble
 
